@@ -1,0 +1,11 @@
+{
+    "name": "fiamma/dealerkit-api",
+    "description": "Wrapper for DealerKit VIN Decode API",
+    "authors": [
+        {
+            "name": "Alexander Kisten",
+            "email": "kistenalex@gmail.com"
+        }
+    ],
+    "require": {}
+}

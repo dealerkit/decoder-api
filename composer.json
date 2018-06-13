@@ -3,7 +3,6 @@
     "description": "Wrapper for DealerKit VIN Decode API",
     "keywords": ["vin", "api", "decode", "vehicle identification number", "vehicle", "dealer", "kit"],
     "homepage": "https://dealerkit.co/",
-    "minimum-stability": "stable",
     "type": "library",
     "require": {
         "php": ">=7.0.0",

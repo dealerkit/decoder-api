@@ -75,3 +75,31 @@ Success result:
     }
 }
 ```
+### The popular errors:
+
+Token incorrect. Please, that the token is correct and transmitted correctly.
+```
+{
+  "success": false,
+  "message": "Your request was made with invalid credentials.",
+  "code": 401
+}
+```
+
+You do not subscribed to billing plan. Please go to [billing](https://dealerkit.co/billing) page and choose plan.
+```
+{
+  "success": false,
+  "message": "Billing plan not choosed",
+  "code": 1
+}
+```
+
+We can not write off the money from the card for this temporarily blocked your account, top up the balance or contact the administration.
+```
+{
+  "success": false,
+  "message": "Billing plan is inactive",
+  "code": 2
+}
+```

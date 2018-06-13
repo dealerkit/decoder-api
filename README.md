@@ -1,8 +1,9 @@
 # dealerkit-api
 This library work with DealerKit API - https://dealerkit.co
+
 You can decode vehicle identification numbers, see usage statistics and getting basic billing information
 
-`composer.phar require "fiamma06/dealerkit-api":"*"`
+`composer.phar require "fiamma06/dealerkit-api":"~1.0.0"`
 
 ### Basic usage
 Before you start using API you need to register and go into your profile for getting api key. Next create basic object of DealerKitApi class

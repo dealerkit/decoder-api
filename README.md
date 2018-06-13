@@ -3,9 +3,6 @@ This library work with DealerKit API - https://dealerkit.co
 
 `composer.phar require "fiamma06/dealerkit-api":"*"`
 
-$token = 'XXXXXXX'; // Get from 
-$client = new DealerKitApi($token);
-
 ### Basic usage
 Before you start using API you need to register and go into your profile for getting api key. Next create basic object of DealerKitApi class
 ```

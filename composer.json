@@ -1,8 +1,11 @@
 {
     "name": "fiamma/dealerkit-api",
     "description": "Wrapper for DealerKit VIN Decode API",
+    "keywords": ["vin", "api", "decode", "vehicle identification number", "vehicle", "dealer", "kit"],
+    "homepage": "https://dealerkit.co/",
     "type": "library",
     "require": {
+        "php": ">=7.0.0",
         "guzzlehttp/guzzle": "~6.0"
     },
     "authors": [

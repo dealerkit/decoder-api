@@ -3,9 +3,10 @@
     "description": "Wrapper for DealerKit VIN Decode API",
     "keywords": ["vin", "api", "decode", "vehicle identification number", "vehicle", "dealer", "kit"],
     "homepage": "https://dealerkit.co/",
+    "license": "MIT",
     "type": "library",
     "require": {
-        "php": ">=7.0.0",
+        "php": ">=5.5",
         "guzzlehttp/guzzle": "~6.0"
     },
     "authors": [
@@ -17,11 +18,6 @@
     "autoload": {
         "psr-4": {
             "fiamma06\\dealerkit\\api\\": "src/"
-        }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
         }
     }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace fiamma06\dealerkit\api;
+namespace dealerkit\decoder\api;
 
 use GuzzleHttp;
 

@@ -1,5 +1,5 @@
 {
-    "name": "fiamma/dealerkit-api",
+    "name": "dealerkit/decoder-api",
     "description": "Wrapper for DealerKit VIN Decode API",
     "keywords": ["vin", "api", "decode", "vehicle identification number", "vehicle", "dealer", "kit"],
     "homepage": "https://dealerkit.co/",
@@ -11,13 +11,13 @@
     },
     "authors": [
         {
-            "name": "Alexander Kisten",
-            "email": "kistenalex@gmail.com"
+            "name": "DealerKit Team",
+            "email": "info@dealerkit.co"
         }
     ],
     "autoload": {
         "psr-4": {
-            "fiamma06\\dealerkit\\api\\": "src/"
+            "dealerkit\\decoder\\api": "src/"
         }
     }
 }

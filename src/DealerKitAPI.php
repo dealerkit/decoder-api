@@ -6,7 +6,8 @@ use GuzzleHttp;
 
 /**
  * Class DealerKitAPI
- * @package fiamma06\dealerkit\api
+ *
+ * @package dealerkit\decoder\api
  */
 class DealerKitAPI {
 
